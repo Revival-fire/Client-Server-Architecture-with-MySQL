@@ -11,7 +11,7 @@ In their communication, each machine has its own role: the machine sending reque
 
 A simple diagram of Web Client-Server architecture is presented below:
 
-<img src="https://darey-io-nonprod-pbl-projects.s3.eu-west-2.amazonaws.com/project5/Client-server.png" width="936px" height="550px">
+[](./Client-server.png)
 
 In the example above, a machine that is trying to access a Web site using Web browser or simply 'curl' command is a client and it sends HTTP requests to a Web server (Apache, Nginx, IIS or any other) over the Internet. 
 
